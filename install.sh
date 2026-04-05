@@ -1,6 +1,6 @@
 #!/bin/bash
 # 🚀 VK IP Checker Docker Installer
-# Установка: curl -fsSL https://raw.githubusercontent.com/Prigorok18/vk-ip-checker/main/install.sh | sudo bash
+# Установка: curl -fsSL https://raw.githubusercontent.com/Prigorok18/vk-ip-checker/refs/heads/main/install.sh | sudo bash
 
 set -e
 

@@ -7,9 +7,10 @@
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/Prigorok18/vk-ip-checker/main/install.sh | sudo bash
-
+```
 ## ✅ После установки
 
 Скопируйте и выполните в терминале:
 ```bash
 vk-ip-checker
+```
